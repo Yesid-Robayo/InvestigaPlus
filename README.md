@@ -5,7 +5,7 @@
 
 [Listar cualquier requisito previo necesario para ejecutar la aplicación, como lenguajes de programación, bibliotecas externas, etc.]
 
-## Instalación
+## Implementacion de la base de datos
 
 [Proporcionar instrucciones paso a paso sobre cómo instalar y configurar la aplicación. Incluye cualquier comando necesario o configuración adicional.]
 
