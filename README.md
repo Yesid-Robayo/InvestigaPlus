@@ -17,6 +17,7 @@ Ahora en el apartado de donde dice SQL pegar el contenido de la base de datos pr
 ![image](https://github.com/Yesid-Robayo/Grupo_de_invesitigacion-I2E/assets/114313044/fade2cb2-c6ee-4778-8a4f-e3d735acc57c)
 #### Paso 4.
 Una vez pegada la base de datos oprimir la opcion que dice go y de esta forma ya se va a crear la base de datos para que el programa funcione correctamente
+![image](https://github.com/Yesid-Robayo/Grupo_de_invesitigacion-I2E/assets/114313044/ef09154a-bf1e-4b84-ba06-5e04cf860fd9)
 
 ## Uso
 
