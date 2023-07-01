@@ -59,7 +59,8 @@ Una de estas medidas es la utilización de técnicas de codificación avanzadas 
 
 En resumen, Investiga+ no solo te proporciona una solución integral para el control de inventario, gestión de proyectos, manipulación de usuarios e historiales, sino que también se preocupa por mantener la seguridad de tus datos. La aplicación utiliza técnicas de codificación avanzadas para almacenar las contraseñas de forma segura, brindándote una experiencia confiable y segura en el manejo de tus semilleros y proyectos.
 
-##Contacto
+## Contacto
+
 Si tienes preguntas, sugerencias o problemas relacionados con Investiga+, no dudes en ponerte en contacto con alguno de nosotros:
 
 - Yesid : yesidrobayo11@gmail.com
