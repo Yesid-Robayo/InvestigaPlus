@@ -38,8 +38,7 @@ CREATE TABLE `tb_persona` (
   Resumen text NOT NULL,
   Palabras_claves text NOT NULL,
   Justificacion text NOT NULL,
-  PRIMARY KEY (`id_proyecto`),
-  UNIQUE KEY `Titulo` (`Titulo`)
+  PRIMARY KEY (`id_proyecto`)
   ) ;
 
 
