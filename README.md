@@ -55,7 +55,7 @@ Asegúrate de seguir estos pasos para configurar y utilizar correctamente Invest
 
 En Investiga+, la seguridad de tus datos es una prioridad. Además de las funciones de control de inventario, gestión de proyectos, manipulación de usuarios e historiales, la aplicación implementa medidas de seguridad adicionales para garantizar la protección de tu información.
 
-Una de estas medidas es la utilización de técnicas de codificación avanzadas para almacenar las contraseñas de manera segura. Esto significa que las contraseñas se guardan en forma cifrada, lo que proporciona una capa adicional de protección contra accesos no autorizados. La codificación de contraseñas garantiza que incluso en caso de un acceso no autorizado a la base de datos, las contraseñas no se puedan leer o descifrar.
+Una de estas medidas es la utilización de técnicas de codificación avanzadas para almacenar las contraseñas de manera segura. Esto significa que las contraseñas se guardan en forma cifrada, lo que proporciona una capa adicional de protección contra accesos no autorizados.
 
 En resumen, Investiga+ no solo te proporciona una solución integral para el control de inventario, gestión de proyectos, manipulación de usuarios e historiales, sino que también se preocupa por mantener la seguridad de tus datos. La aplicación utiliza técnicas de codificación avanzadas para almacenar las contraseñas de forma segura, brindándote una experiencia confiable y segura en el manejo de tus semilleros y proyectos.
 
@@ -64,5 +64,5 @@ En resumen, Investiga+ no solo te proporciona una solución integral para el con
 Si tienes preguntas, sugerencias o problemas relacionados con Investiga+, no dudes en ponerte en contacto con alguno de nosotros:
 
 - Yesid : yesidrobayo11@gmail.com
-
-En resumen, Investiga+ te proporciona una solución integral para el control de inventario, gestión de proyectos, manipulación de usuarios e historiales en el ámbito de los semilleros. Además, se preocupa por mantener la seguridad de tus datos mediante el uso de técnicas de codificación avanzadas para almacenar las contraseñas de forma segura. Esto te brinda una experiencia confiable y segura en el manejo de tus semilleros y proyectos.
+- Maikol :
+- Paula :
