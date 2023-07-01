@@ -15,7 +15,7 @@ Investiga+ es una aplicación avanzada diseñada para satisfacer las necesidades
 
 ## Uso
 
-Sigue estos pasos para utilizar Investiga+:
+Sigue estos pasos para utilizar Investiga+
 
 ## Requisitos Previos
 
