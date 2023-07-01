@@ -20,7 +20,7 @@ Sigue estos pasos para utilizar Investiga+:
 ## Requisitos Previos
 
 1. Tener previamente instalado el XAMPP a que con esta aplicacion es la que sirve la base de datos.
-2. Haber descargado previamente los archivos del github en este caso seria la base de datos y los diferentes exe.
+2. Haber descargado previamente los archivos del github en este caso seria la base de datos y el archivo exe.
 
 
 ## Implementacion de la base de datos
