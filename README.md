@@ -65,4 +65,4 @@ Si tienes preguntas, sugerencias o problemas relacionados con Investiga+, no dud
 
 - Yesid : yesidrobayo11@gmail.com
 - Maikol :
-- Paula :
+- Paula : paus2207@gmail.com
