@@ -22,6 +22,9 @@ Sigue estos pasos para utilizar InvestigaPlus
 
 1. Tener previamente instalado el XAMPP a que con esta aplicacion es la que sirve la base de datos.
 2. Haber descargado previamente los archivos del github en este caso seria la base de datos y el archivo exe.
+   Si no los encuentras usa estos links directos
+   - Ejecutable (.exe) : https://github.com/Yesid-Robayo/InvestigaPlus/raw/main/Ejecutable/InvestigaPlus.exe
+   - Base de datos : https://github.com/Yesid-Robayo/InvestigaPlus/raw/main/Base%20de%20datos/InvestigaPlus_1.0.sql
 
 
 ## Implementacion de la base de datos
