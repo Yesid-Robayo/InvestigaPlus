@@ -53,13 +53,12 @@ Asegúrate de seguir estos pasos para configurar y utilizar correctamente Invest
 
 ## Imagenes adicionales
 
+#### A continuación, te presentamos algunas imágenes que muestran algunas de las funciones disponibles en Investiga+. ¡No dudes en probar nuestra aplicación y experimentar todas estas características por ti mismo! Descubre cómo InvestigaPlus puede facilitar tus tareas diarias y optimizar tus procesos. 
 ![image](https://github.com/Yesid-Robayo/InvestigaPlus/assets/114313044/22e0aba2-cb12-4fb9-9ff8-4bf89523182c)
 ![image](https://github.com/Yesid-Robayo/InvestigaPlus/assets/114313044/dc53002d-9159-4769-b7eb-b8607e3ba353)
 ![image](https://github.com/Yesid-Robayo/InvestigaPlus/assets/114313044/816f1a28-72cd-4164-8216-61eb92fef812)
 ![image](https://github.com/Yesid-Robayo/InvestigaPlus/assets/114313044/e4c77087-6198-4d8b-ac5c-fdbc961c7057)
-
-
-
+![image](https://github.com/Yesid-Robayo/InvestigaPlus/assets/114313044/c93ae514-53bf-4dbf-9d36-59aefaf39812)
 
 ## Información adicional
 
