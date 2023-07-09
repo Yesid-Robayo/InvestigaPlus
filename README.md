@@ -29,13 +29,16 @@ Sigue estos pasos para utilizar InvestigaPlus
  Abrir el XAMPP y precionar Start primero en Apache y luego en MySQL
 #### Paso 2.
 En la opcion de MySQL precionar donde dice admin de esta manera se abrira phpMyAdmin en su navegador
-![image](https://github.com/Yesid-Robayo/Grupo_de_invesitigacion-I2E/assets/114313044/344c41cd-1a71-4cd5-a6dc-c4a46fd0f741)
+![image](https://github.com/Yesid-Robayo/InvestigaPlus/assets/114313044/becddcfd-f007-4b85-81ae-ca20c9b682b3)
+
 #### Paso 3.
 Ahora en el apartado de donde dice SQL pegar el contenido de la base de datos previamente descargada
-![image](https://github.com/Yesid-Robayo/Grupo_de_invesitigacion-I2E/assets/114313044/fade2cb2-c6ee-4778-8a4f-e3d735acc57c)
+![image (1)](https://github.com/Yesid-Robayo/InvestigaPlus/assets/114313044/1967aa51-4908-4c98-9871-5c11e2c0d7d9)
+
 #### Paso 4.
 Una vez pegada la base de datos oprimir la opcion que dice go y de esta forma ya se va a crear la base de datos para que el programa funcione correctamente
-![image](https://github.com/Yesid-Robayo/Grupo_de_invesitigacion-I2E/assets/114313044/ef09154a-bf1e-4b84-ba06-5e04cf860fd9)
+![image (2)](https://github.com/Yesid-Robayo/InvestigaPlus/assets/114313044/4d142f9d-5d57-4e99-a714-143354bb648d)
+
 
 ## Apertura del programa
 
