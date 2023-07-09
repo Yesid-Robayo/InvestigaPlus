@@ -1,4 +1,5 @@
 ## InvestigaPlus
+![Logo](https://github.com/Yesid-Robayo/InvestigaPlus/assets/114313044/79c359e1-883f-4d57-8547-8cee3e75bda0)
 
 InvestigaPlus es una aplicación avanzada diseñada para satisfacer las necesidades de control de inventario, gestión de proyectos, manipulación de usuarios e historiales en el ámbito de los semilleros. Esta herramienta versátil y completa te permite tener un control preciso sobre tus semillas, proyectos en curso, usuarios y el historial de acciones realizadas en el sistema.
 
