@@ -44,7 +44,7 @@ Una vez hecho el paso anterior abrir el Investiga+.exe el cual es portable no ne
 #### Paso 2.
 Para poder ingresar a la aplicacion como es una aplicacion donde el administrador se encarga en agregar los usuarios tendra que ingresar como administrador las credenciales son :
 
-Correo: Investiga+@grupoinvestiga+.com
+Correo: InvestigaPlus@grupoinvestigaplus.com
 Contraseña: admin
 
 NOTA : Tenga en cuenta que este correo es ficticio y no existe asi que no podra recuperar la contraseña si la llega a cambiar y no se acuerda de su contraseña tendra que volver a colocar toda la base de datos desde 0.
