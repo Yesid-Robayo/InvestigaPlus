@@ -1,6 +1,6 @@
-## Investiga+
+## InvestigaPlus
 
-Investiga+ es una aplicación avanzada diseñada para satisfacer las necesidades de control de inventario, gestión de proyectos, manipulación de usuarios e historiales en el ámbito de los semilleros. Esta herramienta versátil y completa te permite tener un control preciso sobre tus semillas, proyectos en curso, usuarios y el historial de acciones realizadas en el sistema.
+InvestigaPlus es una aplicación avanzada diseñada para satisfacer las necesidades de control de inventario, gestión de proyectos, manipulación de usuarios e historiales en el ámbito de los semilleros. Esta herramienta versátil y completa te permite tener un control preciso sobre tus semillas, proyectos en curso, usuarios y el historial de acciones realizadas en el sistema.
 
 ## Características
 - Gestión de inventario de semilleros: Registra y realiza un seguimiento detallado de tus existencias de semillas, incluyendo información relevante como el nombre, variedad, cantidad disponible, fecha de adquisición, fecha de vencimiento y proveedor.
@@ -15,7 +15,7 @@ Investiga+ es una aplicación avanzada diseñada para satisfacer las necesidades
 
 ## Uso
 
-Sigue estos pasos para utilizar Investiga+
+Sigue estos pasos para utilizar InvestigaPlus
 
 ## Requisitos Previos
 
@@ -40,24 +40,34 @@ Una vez pegada la base de datos oprimir la opcion que dice go y de esta forma ya
 ## Apertura del programa
 
 #### Paso 1.
-Una vez hecho el paso anterior abrir el Investiga+.exe el cual es portable no necesitara instalarlo en su equipo.
+Una vez hecho el paso anterior abrir el InvestigaPlus.exe el cual es portable no necesitara instalarlo en su equipo.
 #### Paso 2.
 Para poder ingresar a la aplicacion como es una aplicacion donde el administrador se encarga en agregar los usuarios tendra que ingresar como administrador las credenciales son :
 
-Correo: InvestigaPlus@grupoinvestigaplus.com
+Correo: InvestigaPlus@iplus.com
 Contraseña: admin
 
 NOTA : Tenga en cuenta que este correo es ficticio y no existe asi que no podra recuperar la contraseña si la llega a cambiar y no se acuerda de su contraseña tendra que volver a colocar toda la base de datos desde 0.
 
 Asegúrate de seguir estos pasos para configurar y utilizar correctamente Investiga+ y así aprovechar todas sus funcionalidades.
 
+## Imagenes adicionales
+
+![image](https://github.com/Yesid-Robayo/InvestigaPlus/assets/114313044/22e0aba2-cb12-4fb9-9ff8-4bf89523182c)
+![image](https://github.com/Yesid-Robayo/InvestigaPlus/assets/114313044/dc53002d-9159-4769-b7eb-b8607e3ba353)
+![image](https://github.com/Yesid-Robayo/InvestigaPlus/assets/114313044/816f1a28-72cd-4164-8216-61eb92fef812)
+![image](https://github.com/Yesid-Robayo/InvestigaPlus/assets/114313044/e4c77087-6198-4d8b-ac5c-fdbc961c7057)
+
+
+
+
 ## Información adicional
 
-En Investiga+, la seguridad de tus datos es una prioridad. Además de las funciones de control de inventario, gestión de proyectos, manipulación de usuarios e historiales, la aplicación implementa medidas de seguridad adicionales para garantizar la protección de tu información.
+En InvestigaPlus, la seguridad de tus datos es una prioridad. Además de las funciones de control de inventario, gestión de proyectos, manipulación de usuarios e historiales, la aplicación implementa medidas de seguridad adicionales para garantizar la protección de tu información.
 
 Una de estas medidas es la utilización de técnicas de codificación avanzadas para almacenar las contraseñas de manera segura. Esto significa que las contraseñas se guardan en forma cifrada, lo que proporciona una capa adicional de protección contra accesos no autorizados.
 
-En resumen, Investiga+ no solo te proporciona una solución integral para el control de inventario, gestión de proyectos, manipulación de usuarios e historiales, sino que también se preocupa por mantener la seguridad de tus datos. La aplicación utiliza técnicas de codificación avanzadas para almacenar las contraseñas de forma segura, brindándote una experiencia confiable y segura en el manejo de tus semilleros y proyectos.
+En resumen, InvestigaPlus no solo te proporciona una solución integral para el control de inventario, gestión de proyectos, manipulación de usuarios e historiales, sino que también se preocupa por mantener la seguridad de tus datos. La aplicación utiliza técnicas de codificación avanzadas para almacenar las contraseñas de forma segura, brindándote una experiencia confiable y segura en el manejo de tus semilleros y proyectos.
 
 ## Contacto
 
