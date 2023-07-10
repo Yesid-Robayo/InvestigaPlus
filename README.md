@@ -80,5 +80,5 @@ En resumen, InvestigaPlus no solo te proporciona una solución integral para el 
 Si tienes preguntas, sugerencias o problemas relacionados con Investiga+, no dudes en ponerte en contacto con alguno de nosotros:
 
 - Yesid : yesidrobayo11@gmail.com
-- Maikol :
+- Maikol : maikol.raw@gmail.com 
 - Paula : paus2207@gmail.com
